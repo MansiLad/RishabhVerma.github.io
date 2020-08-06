@@ -19,7 +19,7 @@ $(document).ready(function() {
 
 	var typed = new Typed(".typed", {
 		strings: ["Data Science Enthusiast.", "Web Developer.", "Student.","Fitness Enthusiast"],
-		typeSpeed: 90,
+		typeSpeed: 100,
 		loop: true,
 		startDelay: 1000,
 		showCursor: false
