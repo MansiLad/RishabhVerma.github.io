@@ -393,7 +393,7 @@ body {
   
   #contact {
     padding: 150px 0px;
-    background-image: linear-gradient(to right bottom, rgba(222,53,46,0.8), rgba(176,37,33,0.8)),url(../img/red_background.jpg);
+    background-color: rgba(222,53,46,0.8);
     background-size: cover;
   }
   
